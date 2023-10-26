@@ -1,10 +1,11 @@
+# Kai Alcayde and Daniel Neufeldt
 
-
+# import other python files
 import rasa_train as train
 
 def main():
-    # Your main code goes here
-    train.rasa_print()
+
+    train.output()
 
 
 
